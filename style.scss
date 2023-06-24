@@ -1,9 +1,10 @@
     @import "./mixin";
 
     * {
-        margin: 0;
-        padding: 0;
+        margin: 1;
+        padding: 1;
         box-sizing: border-box;
+        padding: 1px;
     }
 
     .navbar {
